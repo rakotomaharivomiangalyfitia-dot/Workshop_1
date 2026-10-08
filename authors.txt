@@ -1,2 +1,6 @@
 Fabien Rozar
+<<<<<<< HEAD
 Mounira MBAE CHARIF
+=======
+ANDRIAMANANJARA Ranto Ruannah Mialitiana
+>>>>>>> a5c80bd232dc008f55e319484371277bafb8ace1
