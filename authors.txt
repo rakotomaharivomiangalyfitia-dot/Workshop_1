@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 RAKOTOMAHARIVO Miangaly Fitia
+=======
+Fabien Rozar
+lidovic-shumhung
+Mounira MBAE CHARIF
+ANDRIAMANANJARA Ranto Ruannah Mialitiana
+
+>>>>>>> 265e140b874bcb0dedd0e12da6682d8bc98896c1
